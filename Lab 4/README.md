@@ -2,4 +2,4 @@
 
 ## Constructing database model from diagram
 
-![Image of Question](img/l4q1)
+![Image of Question](l4q1.png)
